@@ -1,7 +1,10 @@
 # EnvironmentalDraw
 
  Name: Aileen Drohan
+ 
  Student Number: 
+ 
+ 1st Programming Assignment in Processing(Java)
  HDip in Computer Science, WIT
  
  Brief description of the animation achieved:
